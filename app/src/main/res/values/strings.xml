@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SampleMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string-array name="Array">
+        <item>"学校周辺"</item>
+        <item>"自宅周辺"</item>
+        <item>"渋谷周辺"</item>
+        <item>"ここはどこ"</item>
+    </string-array>
+</resources>
